@@ -1,1 +1,3 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e2820c58-c74b-410a-94c7-3f7ca676bcd4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/e2820c58-c74b-410a-94c7-3f7ca676bcd4/public_url">
+  <img src="https://github.com/IzmYuta/IzmYuta/assets/104307371/c3440eaf-a205-47aa-804c-54e3eee41541" width=144>
+</a>
