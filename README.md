@@ -11,4 +11,4 @@ URL：https://izmyuta.github.io/TIL_pages/posts
 
 ## 資格一覧
 <a href="https://www.credly.com/badges/e2820c58-c74b-410a-94c7-3f7ca676bcd4/public_url"><img src="aws-certified-cloud-practitioner.png" width=144></a>
-<a href="https://www.credly.com/earner/earned/badge/5ee865cb-a098-4f9f-bece-e82558dec826"></a>
+<a href="https://www.credly.com/earner/earned/badge/5ee865cb-a098-4f9f-bece-e82558dec826"><img src="aws-certified-solutions-architect-associate.png" width=144></a>
