@@ -4,7 +4,7 @@
 URL：https://izmyuta.com/
 
 ## TIL(今日勉強したこと)
-URL：https://izmyuta.github.io/TIL_pages/posts
+URL：https://izmyuta.github.io/TIL_calendar/posts
 
 ## 使用言語
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzmYuta)](https://github.com/anuraghazra/github-readme-stats)
